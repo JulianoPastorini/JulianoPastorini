@@ -1,4 +1,4 @@
-# Olá, eu sou Juliano Amaral 
+# Olá, eu sou Juliano Pastorini Amaral 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mysql,git,github,figma,vscode" />
