@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,gcp,git,github,vscode,html,css,js,ts,react,nodejs" />
 </p>
 
-**Data Analyst & Developer**
+**Martech | Data analytics **
 
 Certified Data Analyst currently pursuing a degree in Internet Systems Analysis and Development. I have remote work experience using Adobe Analytics, Google Tag Manager, Google Looker Studio, and Power BI for data structuring and dashboard development.
 
